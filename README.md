@@ -6,8 +6,7 @@ StoryGAN:- [Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_Story
 <br>
 
 ## Medical
-<img src="https://user-images.githubusercontent.com/34732790/236634238-7744bf8c-56f3-4882-be47-aaa37b51de69.png"  width="30" height="30">
-ML for Abdominal Transplant:- [Paper](https://doi-org.ezproxy.rice.edu/10.1111/ctr.14951)<br>
+<img src="https://user-images.githubusercontent.com/34732790/236634238-7744bf8c-56f3-4882-be47-aaa37b51de69.png"  width="30" height="30">ML for Abdominal Transplant:- [Paper](https://doi-org.ezproxy.rice.edu/10.1111/ctr.14951)<br>
 Artificial intelligence for clinical outcome prediction:- [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GgF8zHcAAAAJ&citation_for_view=GgF8zHcAAAAJ:5nxA0vEk-isC)<br>
 
 ## Other ML Applications
