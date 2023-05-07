@@ -1,6 +1,11 @@
 # Research Papers
 ```
 List of papers read during my PhD separated by year read, year published, topic, and relevance to my research
+Categories:
+1. Generative AI
+2. Medical Research
+3. Machine Learning Architectures
+4. Other Applications
 ```
 ## Generative AI
 StoryGAN:- [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_StoryGAN_A_Sequential_Conditional_GAN_for_Story_Visualization_CVPR_2019_paper.html)]<br>
