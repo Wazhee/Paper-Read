@@ -10,8 +10,8 @@ Artificial intelligence for clinical outcome prediction:- [[Paper](https://schol
 <img src="https://user-images.githubusercontent.com/34732790/236634238-7744bf8c-56f3-4882-be47-aaa37b51de69.png"  width="20" height="20">Differential Privacy in Health Research:- [[Paper](https://academic.oup.com/jamia/article/28/10/2269/6333353#google_vignette)]<br>
 
 ## Machine Learning Architectures:-
-Pixel Recurrent Neural Network:- [[Paper](https://proceedings.mlr.press/v48/oord16.html)]
-Attention is All You Need (Transformers):- [[Paper](https://arxiv.org/abs/1706.03762)]
+Pixel Recurrent Neural Network:- [[Paper](https://proceedings.mlr.press/v48/oord16.html)]<br>
+<img src="https://user-images.githubusercontent.com/34732790/236634238-7744bf8c-56f3-4882-be47-aaa37b51de69.png"  width="20" height="20">Attention is All You Need (Transformers):- [[Paper](https://arxiv.org/abs/1706.03762)]
 
 ## Other ML Applications
 Crack Dectection in Civil Engineering:- [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197622004687)]<br>
