@@ -18,6 +18,8 @@ Artificial intelligence for clinical outcome prediction:- [[Paper](https://schol
 
 ## Machine Learning Architectures:-
 Pixel Recurrent Neural Network:- [[Paper](https://proceedings.mlr.press/v48/oord16.html)]<br>
+
+## NLP
 <img src="https://user-images.githubusercontent.com/34732790/236634238-7744bf8c-56f3-4882-be47-aaa37b51de69.png"  width="20" height="20">Attention is All You Need (Transformers):- [[Paper](https://arxiv.org/abs/1706.03762)]
 
 ## Other ML Applications
