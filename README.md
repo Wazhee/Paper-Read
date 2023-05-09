@@ -27,5 +27,5 @@ Crack Dectection in Civil Engineering:- [[Paper](https://www.sciencedirect.com/s
 Looking to listen at the Cocktail Party:- [[Paper](https://arxiv.org/abs/1804.03619)]
 
 ## Others
-GPU Computing:- [[Paper]([https://arxiv.org/abs/1804.03619](https://ieeexplore.ieee.org/document/4490127)]
+GPU Computing:- [[Paper](https://ieeexplore.ieee.org/document/4490127)]
 
