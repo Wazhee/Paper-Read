@@ -22,7 +22,10 @@ Pixel Recurrent Neural Network:- [[Paper](https://proceedings.mlr.press/v48/oord
 ## NLP
 <img src="https://user-images.githubusercontent.com/34732790/236634238-7744bf8c-56f3-4882-be47-aaa37b51de69.png"  width="20" height="20">Attention is All You Need (Transformers):- [[Paper](https://arxiv.org/abs/1706.03762)]
 
-## Other ML Applications
+## ML Applications
 Crack Dectection in Civil Engineering:- [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197622004687)]<br>
 Looking to listen at the Cocktail Party:- [[Paper](https://arxiv.org/abs/1804.03619)]
+
+## Others
+GPU Computing:- [[Paper]([https://arxiv.org/abs/1804.03619](https://ieeexplore.ieee.org/document/4490127)]
 
