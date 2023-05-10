@@ -16,6 +16,7 @@ Artificial intelligence for clinical outcome prediction:- [[Paper](https://schol
 
 ## Computer Vision
 Motion Magnification:- [[Paper](https://dl.acm.org/doi/10.1145/1073204.1073223)]
+Detecting Pulse from Head Motion:- [[Paper](https://openaccess.thecvf.com/content_cvpr_2013/html/Balakrishnan_Detecting_Pulse_from_2013_CVPR_paper.html)]
 
 ## Generative AI
 StoryGAN:- [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_StoryGAN_A_Sequential_Conditional_GAN_for_Story_Visualization_CVPR_2019_paper.html)]<br>
