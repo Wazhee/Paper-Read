@@ -18,7 +18,7 @@ Artificial intelligence for clinical outcome prediction:- [[Paper](https://schol
 <img src="https://user-images.githubusercontent.com/34732790/236634238-7744bf8c-56f3-4882-be47-aaa37b51de69.png"  width="20" height="20">Differential Privacy in Health Research:- [[Paper](https://academic.oup.com/jamia/article/28/10/2269/6333353#google_vignette)]<br>
 
 ## Computer Vision
-Motion Magnification:- [[Paper](https://dl.acm.org/doi/10.1145/1073204.1073223)]
+Motion Magnification:- [[Paper](https://dl.acm.org/doi/10.1145/1073204.1073223)]<br>
 Detecting Pulse from Head Motion:- [[Paper](https://openaccess.thecvf.com/content_cvpr_2013/html/Balakrishnan_Detecting_Pulse_from_2013_CVPR_paper.html)]
 
 ## Generative AI
