@@ -3,10 +3,13 @@
 List of papers read during my PhD separated by year read, year published, topic, and relevance to my research
 
 Categories:
-  1. Generative AI
-  2. Medical Research
-  3. Machine Learning Architectures
-  4. Other Applications
+  1. Medical Resarch
+  2. Computer Vision & Applications
+  4. Generative AI
+  5. Machine Learning Applications
+  6. Machine Learning Architectures
+  7. Natural Language Processing 
+  8. Other Applications
 ```
 
 ## Medical
