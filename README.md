@@ -25,6 +25,7 @@ Deep Learning for Multiple Sclerosis Differentiation:- [[Paper](https://ieeexplo
 4. Synthesizing Images of Humans in Unseen Poses:- [[Paper](https://arxiv.org/abs/1804.07739)]<br>
 5. Synthesizing Time Lapse Videos of Paintings:- [[Paper](https://arxiv.org/abs/2001.01026)]<br>
 6. Video diff: highlighting differences between similar actions:- [[Paper](https://dl.acm.org/doi/10.1145/2816795.2818125)]<br>
+7. Dreamix: Video Diffusion Models are General Video Editors:- [[Paper](https://arxiv.org/abs/2302.01329)]<br>
 
 ## Generative AI
 StoryGAN:- [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_StoryGAN_A_Sequential_Conditional_GAN_for_Story_Visualization_CVPR_2019_paper.html)]<br>
