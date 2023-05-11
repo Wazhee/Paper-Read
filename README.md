@@ -23,6 +23,7 @@ Artificial intelligence for clinical outcome prediction:- [[Paper](https://schol
 3. Shape and Motion from Images Streams:- [[Paper](http://www.eecs.berkeley.edu/~yang/courses/cs294-6/papers/TomasiC_Shape%20and%20motion%20from%20image%20streams%20under%20orthography.pdf)]<br>
 4. Synthesizing Images of Humans in Unseen Poses:- [[Paper](https://arxiv.org/abs/1804.07739)]<br>
 5. Synthesizing Time Lapse Videos of Paintings:- [[Paper](https://arxiv.org/abs/2001.01026)]<br>
+6. Video diff: highlighting differences between similar actions:- [[Paper](https://dl.acm.org/doi/10.1145/2816795.2818125)]<br>
 
 ## Generative AI
 StoryGAN:- [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_StoryGAN_A_Sequential_Conditional_GAN_for_Story_Visualization_CVPR_2019_paper.html)]<br>
