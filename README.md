@@ -18,6 +18,8 @@ Artificial intelligence for clinical outcome prediction:- [[Paper](https://schol
 <img src="https://user-images.githubusercontent.com/34732790/236634238-7744bf8c-56f3-4882-be47-aaa37b51de69.png"  width="20" height="20">Differential Privacy in Health Research:- [[Paper](https://academic.oup.com/jamia/article/28/10/2269/6333353#google_vignette)]<br>
 Deep Learning for Multiple Sclerosis Differentiation:- [[Paper](https://ieeexplore.ieee.org/abstract/document/10023977)]<br>
 Deep Learning-Based System for Automatic Melanoma Detection:- [[Paper](https://ieeexplore.ieee.org/abstract/document/8945133)]<br>
+Comparative analysis of nonlinear dimensionality reduction techniques for breast MRI segmentation:- [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3337666/)]<br>
+
 
 ## Computer Vision
 1. Motion Magnification:- [[Paper](https://dl.acm.org/doi/10.1145/1073204.1073223)]<br>
