@@ -19,8 +19,7 @@ Artificial intelligence for clinical outcome prediction:- [[Paper](https://schol
 Deep Learning for Multiple Sclerosis Differentiation:- [[Paper](https://ieeexplore.ieee.org/abstract/document/10023977)]<br>
 Deep Learning-Based System for Automatic Melanoma Detection:- [[Paper](https://ieeexplore.ieee.org/abstract/document/8945133)]<br>
 Comparative analysis of nonlinear dimensionality reduction techniques for breast MRI segmentation:- [[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3337666/)]<br>
-A single dose of cannabidiol (CBD) positively influences measures of stress:- [[Paper]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3337666/](https://www.frontiersin.org/articles/10.3389/fvets.2023.1112604/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Veterinary_Scienc
-))]<br>
+A single dose of cannabidiol (CBD) positively influences measures of stress:- [[Paper](https://www.frontiersin.org/articles/10.3389/fvets.2023.1112604/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Veterinary_Scienc)]<br>
 
 ## Computer Vision
 1. Motion Magnification:- [[Paper](https://dl.acm.org/doi/10.1145/1073204.1073223)]<br>
