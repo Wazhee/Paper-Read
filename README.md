@@ -44,6 +44,7 @@ Pixel Recurrent Neural Network:- [[Paper](https://proceedings.mlr.press/v48/oord
 <img src="https://user-images.githubusercontent.com/34732790/236634238-7744bf8c-56f3-4882-be47-aaa37b51de69.png"  width="20" height="20">Attention is All You Need (Transformers):- [[Paper](https://arxiv.org/abs/1706.03762)]
 
 ## Others
+Selection of the Suitable Neighborhood Size, Isomap:- [[Paper](https://ieeexplore.ieee.org/document/4370972)]<br>
 GPU Computing:- [[Paper](https://ieeexplore.ieee.org/document/4490127)]<br>
 The Trouble with CBD Oil:- [[Paper](https://karger.com/mca/article/1/1/65/189029/The-Trouble-with-CBD-Oil)]<br>
 A single dose of cannabidiol (CBD) positively influences measures of stress:- [[Paper](https://www.frontiersin.org/articles/10.3389/fvets.2023.1112604/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Veterinary_Scienc)]<br>
